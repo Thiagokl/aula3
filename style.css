@@ -20,6 +20,9 @@ body {
 }
 
 .form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: white;
     padding: 20px;
     border-radius: 3px;
